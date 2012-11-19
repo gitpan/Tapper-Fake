@@ -1,10 +1,10 @@
 ## no critic (RequireUseStrict)
 package Tapper::Fake::Master;
 BEGIN {
-  $Tapper::Fake::Master::AUTHORITY = 'cpan:AMD';
+  $Tapper::Fake::Master::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::Fake::Master::VERSION = '4.1.0';
+  $Tapper::Fake::Master::VERSION = '4.1.1';
 }
 # ABSTRACT: Fake Tapper::MCP::Master for testing purpose
 

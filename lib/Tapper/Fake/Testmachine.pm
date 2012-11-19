@@ -1,9 +1,9 @@
 package Tapper::Fake::Testmachine;
 BEGIN {
-  $Tapper::Fake::Testmachine::AUTHORITY = 'cpan:AMD';
+  $Tapper::Fake::Testmachine::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::Fake::Testmachine::VERSION = '4.1.0';
+  $Tapper::Fake::Testmachine::VERSION = '4.1.1';
 }
 
 use warnings;

@@ -1,9 +1,9 @@
 package Tapper::Fake::Child;
 BEGIN {
-  $Tapper::Fake::Child::AUTHORITY = 'cpan:AMD';
+  $Tapper::Fake::Child::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::Fake::Child::VERSION = '4.1.0';
+  $Tapper::Fake::Child::VERSION = '4.1.1';
 }
 # ABSTRACT: Fake Tapper::MCP::Child for testing
 

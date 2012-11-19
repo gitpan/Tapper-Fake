@@ -1,11 +1,11 @@
 package Tapper::Fake;
-# git description: 8f7a500
+# git description: v4.1.0-1-g736828f
 
 BEGIN {
-  $Tapper::Fake::AUTHORITY = 'cpan:AMD';
+  $Tapper::Fake::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::Fake::VERSION = '4.1.0';
+  $Tapper::Fake::VERSION = '4.1.1';
 }
 # ABSTRACT: Tapper - Fake modules for testing the automation layer
 
